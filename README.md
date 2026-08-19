@@ -659,3 +659,23 @@ Also organized inter-college competitions in:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:050505&height=150&section=footer" width="100%"/>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+## Hash Table
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+<!---LeetCode Topics End-->
