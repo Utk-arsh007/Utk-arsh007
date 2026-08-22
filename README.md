@@ -683,4 +683,8 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
