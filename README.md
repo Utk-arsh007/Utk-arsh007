@@ -666,6 +666,7 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -687,6 +688,7 @@ Also organized inter-college competitions in:
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -696,5 +698,22 @@ Also organized inter-college competitions in:
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
