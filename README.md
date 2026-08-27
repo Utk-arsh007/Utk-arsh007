@@ -672,11 +672,13 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -696,6 +698,7 @@ Also organized inter-college competitions in:
 | ------- |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -721,4 +724,12 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
