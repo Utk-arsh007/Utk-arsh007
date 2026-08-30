@@ -667,6 +667,7 @@ Also organized inter-college competitions in:
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -678,6 +679,7 @@ Also organized inter-college competitions in:
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
