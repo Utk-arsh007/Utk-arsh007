@@ -695,6 +695,7 @@ Also organized inter-college competitions in:
 ## Math
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -716,6 +717,7 @@ Also organized inter-college competitions in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
@@ -725,6 +727,7 @@ Also organized inter-college competitions in:
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -746,4 +749,8 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
