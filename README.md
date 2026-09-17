@@ -666,6 +666,7 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -675,6 +676,7 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -717,6 +719,7 @@ Also organized inter-college competitions in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -736,6 +739,7 @@ Also organized inter-college competitions in:
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
@@ -753,4 +757,8 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
