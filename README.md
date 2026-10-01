@@ -711,6 +711,7 @@ Also organized inter-college competitions in:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -770,4 +771,12 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
