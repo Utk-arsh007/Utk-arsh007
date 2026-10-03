@@ -712,6 +712,7 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -725,6 +726,7 @@ Also organized inter-college competitions in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
@@ -775,8 +777,10 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
