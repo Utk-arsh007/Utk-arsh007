@@ -715,6 +715,7 @@ Also organized inter-college competitions in:
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0856-score-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -782,10 +783,12 @@ Also organized inter-college competitions in:
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
