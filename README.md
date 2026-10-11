@@ -670,6 +670,7 @@ Also organized inter-college competitions in:
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3875-construct-uniform-parity-array-i) |
@@ -760,6 +761,7 @@ Also organized inter-college competitions in:
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
