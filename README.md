@@ -673,6 +673,7 @@ Also organized inter-college competitions in:
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3525-find-x-value-of-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -695,6 +696,7 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
