@@ -674,6 +674,7 @@ Also organized inter-college competitions in:
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3525-find-x-value-of-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -738,6 +739,7 @@ Also organized inter-college competitions in:
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
 | ------- |
@@ -795,4 +797,8 @@ Also organized inter-college competitions in:
 | [0032-longest-valid-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0856-score-of-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
