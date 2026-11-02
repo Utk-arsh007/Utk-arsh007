@@ -665,6 +665,7 @@ Also organized inter-college competitions in:
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -705,6 +706,7 @@ Also organized inter-college competitions in:
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1927-sum-game) |
@@ -801,4 +803,8 @@ Also organized inter-college competitions in:
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3665-twisted-mirror-path-count) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
