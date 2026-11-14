@@ -673,6 +673,7 @@ Also organized inter-college competitions in:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3364-minimum-positive-sum-subarray) |
 | [3525-find-x-value-of-array-ii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3525-find-x-value-of-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3665-twisted-mirror-path-count) |
@@ -751,6 +752,7 @@ Also organized inter-college competitions in:
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3364-minimum-positive-sum-subarray) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Also organized inter-college competitions in:
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Utk-arsh007/Utk-arsh007/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
